@@ -1,0 +1,9 @@
+{
+  "name": "Barangay San Antonio Portal",
+  "short_name": "San Antonio",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#173d32",
+  "description": "Local demonstration community portal"
+}
